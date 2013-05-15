@@ -4,6 +4,10 @@
 ?>
 <div>
 	Premier ajout
+	<p> Qqchose</p>
+	<ul>
+		<li>sfdsf</li>
+	</ul>
 </div>
 <div class="main_home">
 	<?php
