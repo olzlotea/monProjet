@@ -7,6 +7,7 @@
 	<p> Qqchose</p>
 	<ul>
 		<li>Acceil</li>
+		<li>Contact</li>
 	</ul>
 </div>
 <div class="main_home">
